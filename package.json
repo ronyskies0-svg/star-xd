@@ -1,7 +1,7 @@
 {
-  "name": "starxd",
+  "name": "RONY SKIES",
   "version": "2.0.0",
-  "description": "WhatsApp Bot by Malvin King",
+  "description": "WhatsApp Bot by Rony skies",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -16,9 +16,9 @@
     "docker:build": "docker build -t docker run -e SESSION_ID=$SESSION_ID starxd"
   },
   "keywords": [
-    "whatsapp-bot", "star-xd","starxd"
+    "whatsapp-bot", "RONY-SKIES","RONY"
   ],
-  "author": "Malvin King",
+  "author": "RONY SKIES",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
